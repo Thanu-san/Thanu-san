@@ -16,7 +16,6 @@
 - [Hokchheng07/Guardians_of_Angkor](https://github.com/Hokchheng07/Guardians_of_Angkor)
 - [Oudom-Ratana/Final_Project_Foundation_Gen6](https://github.com/Oudom-Ratana/Final_Project_Foundation_Gen6)
 - [Reaksmey8/LifeForgeFinalProjectjava](https://github.com/Reaksmey8/LifeForgeFinalProjectjava)
-- [Oudom-Ratana/assigment-m2](https://github.com/Oudom-Ratana/assigment-m2)
 
 ## 📊 Contributions
 I enjoy working on management systems, frontend development, and fun console games!
