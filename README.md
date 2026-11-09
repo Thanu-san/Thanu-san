@@ -33,13 +33,13 @@
 <p align="center"><sub>Things I've built on my own</sub></p>
 
 <p align="center">
-  <a href="https://github.com/Thanu-san/Project-Employee-Management-System"><img src="assets/cards/Project-Employee-Management-System.svg" width="380" alt="Project-Employee-Management-System" /></a>
-  <a href="https://github.com/Thanu-san/Fronted-Mini-project-G4"><img src="assets/cards/Fronted-Mini-project-G4.svg" width="380" alt="Fronted-Mini-project-G4" /></a>
-  <a href="https://github.com/Thanu-san/Java-mini-project-movie-search"><img src="assets/cards/Java-mini-project-movie-search.svg" width="380" alt="Java-mini-project-movie-search" /></a>
-  <a href="https://github.com/Thanu-san/My-React-Foundation-Project"><img src="assets/cards/My-React-Foundation-Project.svg" width="380" alt="My-React-Foundation-Project" /></a>
-  <a href="https://github.com/Thanu-san/Fronted-FinalProject-G2"><img src="assets/cards/Fronted-FinalProject-G2.svg" width="380" alt="Fronted-FinalProject-G2" /></a>
-  <a href="https://github.com/Thanu-san/ISTAD-Bachelor-S2-nextjs"><img src="assets/cards/ISTAD-Bachelor-S2-nextjs.svg" width="380" alt="ISTAD-Bachelor-S2-nextjs" /></a>
-  <a href="https://github.com/Thanu-san/InventoryManagementSystem"><img src="assets/cards/InventoryManagementSystem.svg" width="380" alt="InventoryManagementSystem" /></a>
+  <a href="https://github.com/Thanu-san/Project-Employee-Management-System"><img src="assets/Project-Employee-Management-System.svg" width="380" alt="Project-Employee-Management-System" /></a>
+  <a href="https://github.com/Thanu-san/Fronted-Mini-project-G4"><img src="assets/Fronted-Mini-project-G4.svg" width="380" alt="Fronted-Mini-project-G4" /></a>
+  <a href="https://github.com/Thanu-san/Java-mini-project-movie-search"><img src="assets/Java-mini-project-movie-search.svg" width="380" alt="Java-mini-project-movie-search" /></a>
+  <a href="https://github.com/Thanu-san/My-React-Foundation-Project"><img src="assets/My-React-Foundation-Project.svg" width="380" alt="My-React-Foundation-Project" /></a>
+  <a href="https://github.com/Thanu-san/Fronted-FinalProject-G2"><img src="assets/Fronted-FinalProject-G2.svg" width="380" alt="Fronted-FinalProject-G2" /></a>
+  <a href="https://github.com/Thanu-san/ISTAD-Bachelor-S2-nextjs"><img src="assets/ISTAD-Bachelor-S2-nextjs.svg" width="380" alt="ISTAD-Bachelor-S2-nextjs" /></a>
+  <a href="https://github.com/Thanu-san/InventoryManagementSystem"><img src="assets/InventoryManagementSystem.svg" width="380" alt="InventoryManagementSystem" /></a>
 </p>
 
 <br/>
@@ -49,12 +49,12 @@
 <p align="center"><sub>Things I've built together with my team</sub></p>
 
 <p align="center">
-  <a href="https://github.com/nxthh/Angkorism"><img src="assets/cards/collab-Angkorism.svg" width="380" alt="Angkorism" /></a>
-  <a href="https://github.com/TongAnWasHere/wordlepp_istad"><img src="assets/cards/collab-wordlepp_istad.svg" width="380" alt="wordlepp_istad" /></a>
-  <a href="https://github.com/seavminhleang-art/Mini-project-group-4"><img src="assets/cards/collab-Mini-project-group-4.svg" width="380" alt="Mini-project-group-4" /></a>
-  <a href="https://github.com/Hokchheng07/Guardians_of_Angkor"><img src="assets/cards/collab-Guardians_of_Angkor.svg" width="380" alt="Guardians_of_Angkor" /></a>
-  <a href="https://github.com/Oudom-Ratana/Final_Project_Foundation_Gen6"><img src="assets/cards/collab-Final_Project_Foundation_Gen6.svg" width="380" alt="Final_Project_Foundation_Gen6" /></a>
-  <a href="https://github.com/Reaksmey8/LifeForgeFinalProjectjava"><img src="assets/cards/collab-LifeForgeFinalProjectjava.svg" width="380" alt="LifeForgeFinalProjectjava" /></a>
+  <a href="https://github.com/nxthh/Angkorism"><img src="assets/collab-Angkorism.svg" width="380" alt="Angkorism" /></a>
+  <a href="https://github.com/TongAnWasHere/wordlepp_istad"><img src="assets/collab-wordlepp_istad.svg" width="380" alt="wordlepp_istad" /></a>
+  <a href="https://github.com/seavminhleang-art/Mini-project-group-4"><img src="assets/collab-Mini-project-group-4.svg" width="380" alt="Mini-project-group-4" /></a>
+  <a href="https://github.com/Hokchheng07/Guardians_of_Angkor"><img src="assets/collab-Guardians_of_Angkor.svg" width="380" alt="Guardians_of_Angkor" /></a>
+  <a href="https://github.com/Oudom-Ratana/Final_Project_Foundation_Gen6"><img src="assets/collab-Final_Project_Foundation_Gen6.svg" width="380" alt="Final_Project_Foundation_Gen6" /></a>
+  <a href="https://github.com/Reaksmey8/LifeForgeFinalProjectjava"><img src="assets/collab-LifeForgeFinalProjectjava.svg" width="380" alt="LifeForgeFinalProjectjava" /></a>
 </p>
 
 <br/>
