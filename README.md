@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:1f6feb,100:8957e5&text=San%20Sengthanu&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=aka%20Thanu-san%20%7C%20Student%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Hi+there%21+%F0%9F%91%8B+I'm+Thanu-san;I'm+a+second-year+IT+student+at+ISTAD+%F0%9F%8E%93;I'm+interested+in+Software+Development+%26+Java+%E2%98%95;Backend+%26+Frontend+Development+%F0%9F%92%BB;I+want+to+grow+into+a+great+software+developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Hi+there%21+%F0%9F%91%8B+I'm+Thanu-san;I'm+a+second-year+IT+student+at+ISTAD+%F0%9F%8E%93;I'm+interested+in+Software+Development+%26+Java+%E2%98%95;Backend+%26+Frontend+Development+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 </div>
