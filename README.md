@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:1f6feb,100:8957e5&text=San%20Sengthanu&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=aka%20Thanu-san%20%7C%20Student%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:1f6feb,100:8957e5&text=San%20Sengthanu&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=aka%20Thanu-san%20%7C%20Student%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" /> -->
 
 <img src="assets/terminal.svg" width="760" alt="Terminal: San Sengthanu (Thanu-san), second-year IT student at ISTAD, interested in Software Development, Java, Backend and Frontend" />
 
